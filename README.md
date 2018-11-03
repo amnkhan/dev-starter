@@ -12,7 +12,7 @@ To use this project first `clone` this repo. And follow the following procedure.
 ## Installation
 To install run the following `commands`
 ```sh
-$ git clone
+$ git clone git@github.com:amnkhan/dev-starter.git
 $ npm install
 ```
 ***Incase if you face any error while running `npm-install` please make sure you are using a stable version of node. Don't use latest releases, sometime it conflicts with the packages used in this project.***
@@ -38,4 +38,4 @@ $ npm run watch
 $ npm run prod
 ```
 
-##### Please `Star` this project if you find it useful.
+##### Please `Star ⭐🌟⭐` this project if you find it useful.

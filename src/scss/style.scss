@@ -1,0 +1,33 @@
+// Main Style Starts from here
+
+/**
+    Section Map
+    ===========
+
+    01 - Global Styles
+    02 - Header Styles
+    00 - Footer Styles
+**/
+
+// All the variables
+@import '_partials/var';
+
+/**
+    01 - Global Styles
+**/
+@import '_partials/global';
+
+/**
+    02 - Header Styles
+**/
+@import '_partials/header';
+
+/**
+    00 - Footer Styles
+**/
+@import '_partials/footer';
+
+/**
+    00 - Responsive Styles || Always place this at the bottom
+**/
+@import '_partials/responsive';
