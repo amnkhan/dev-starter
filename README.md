@@ -38,4 +38,4 @@ $ npm run watch
 $ npm run prod
 ```
 
-##### Please `Star ⭐🌟⭐` this project if you find it useful.
+##### Please ⭐⭐⭐ this project if you find it useful.
